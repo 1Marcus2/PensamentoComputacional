@@ -2,5 +2,5 @@
 Aula de Pensamento Computacional
 
 😎Aluno: Marcus Gomes de Souza
-Turma: Pensamento Computacional TURMA B 
-Atividades
+🏢Turma: Pensamento Computacional TURMA B 
+💡Atividades realizadas em sala 
